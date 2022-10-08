@@ -8,13 +8,17 @@ The main point of this project is to recognize gestures from the Sign Language t
 
 -> Used ML algorithm and Convolutional neural networks (CNN) based on Deep Learning 
 implemented using Python.
+
 -> For data acquisition, images were captured by webcam using Python and OpenCV. OpenCV 
 provides functions which are primarily aimed at the Real-Time Computer Vision.
+
 -> Trained a TensorFlow Model to create a Real-Time Sign Language Detection System. 
+
 -> The basic idea of this project is to make a system using which Speech Impaired People can 
 significantly communicate with all other people using their normal gestures.
 
-The basic flowchart of the model is 
+
+The Basic FLOWCHART of the Model 
 
 ![1](https://user-images.githubusercontent.com/114558761/194708613-bcfc8376-7a2e-4d10-9271-a9918dfd695c.jpg)
 
